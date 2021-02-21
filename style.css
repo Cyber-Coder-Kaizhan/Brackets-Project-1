@@ -1,0 +1,79 @@
+.x {
+    color: black;
+    font-family: inherit;
+    text-decoration: underline;
+}
+
+body {
+    text-align: center;
+}
+
+#s1 {
+    background: linear-gradient(#ffe600 0%, #fc5a23 100%);
+    height: 600px;
+}
+
+#s2 {
+    background: linear-gradient(#0062ff 0%, #000966 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#s3 {
+    background: linear-gradient(#10eb05 0%, #065402 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#s4 {
+    background: linear-gradient(#7307d9 0%, #2a024f 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#s5 {
+    background: linear-gradient(#ff0505 0%, #a10000 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#s6 {
+    background: linear-gradient(#fff200 0%, #756f01 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#s7 {
+    background: linear-gradient(#00ffdd 0%, #01473e 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#y {
+    height: 200px;
+    width: 275px;
+}
+
+#x {
+    height: 200px;
+    width: 200px;
+}
+
+#z {
+    height: 350px;
+    width: 350px;
+}
+
+#a {
+    height: 350px;
+    width: 350px;
+}
+
+#b {
+    height: 350px;
+    width: 350px;
+}
+#c {
+    height: 350px;
+    width: 350px;
+}
